@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+form{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: transparent;
+    box-shadow: 0 0 10px black;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
